@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá, me chamo Gabriel Henrique👋
 
-<!--
-**Henrique897777/Henrique897777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😉 Futuro cientista da programação!
+- 🏫 Sou estudante do Ceub!
+- 🧑‍💻 Aprendendo linguagens de programação!
+- 💬 Me pergunte o que precisar!
 
-Here are some ideas to get you started:
+ <div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Henrique897777&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique897777&layout=compact&theme=tokyonight" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gh972027@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique)
