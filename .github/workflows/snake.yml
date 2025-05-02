@@ -23,3 +23,6 @@ jobs:
           author_email: github-actions@github.com
           message: "generated snake"
           add: "dist/*.svg"
+          git add .
+git commit -m 
+git push origin main
