@@ -1,4 +1,4 @@
-## Olá, me chamo Gabriel Henrique👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=OL%C3%81%2C+ME+CHAMO+GABRIEL+HENRIQUE%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 - 😉 Futuro cientista da programação!
 - 🏫 Sou estudante do Ceub!
