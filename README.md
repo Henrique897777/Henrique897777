@@ -27,13 +27,13 @@
 
 ### 📊 Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henrique897777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique897777&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Henrique897777&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique897777&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" height="170px" />
 </div>
 
 ---
 
-### 🐍 Snake Game
+### 🐍
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrique897777/Henrique897777/output/github-contribution-grid-snake-dark.svg">
