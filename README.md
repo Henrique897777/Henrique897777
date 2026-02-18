@@ -25,13 +25,6 @@
 
 ---
 
-### 📊 Linguagens mais utilizadas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique897777&layout=donut&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Linguagens de Henrique897777" height="300px" />
-</div>
-
----
-
 ### 🐍
 <div align="center">
   <picture>
