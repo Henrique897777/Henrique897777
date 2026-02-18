@@ -27,8 +27,8 @@
 
 ### 📊 Estatísticas
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Henrique897777&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique897777&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Henrique897777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique897777&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </div>
 
 ---
