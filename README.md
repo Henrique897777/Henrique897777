@@ -8,8 +8,8 @@
 
 ### 🚀 Sobre Mim
 - 🏫 Estudante de Ciência da Computação no **Ceub**
-- 🧑‍💻 Atualmente focado em aprender novas linguagens e frameworks
-- 💬 Me pergunte sobre qualquer coisa, adoro ajudar!
+- 🧑‍💻 Atualmente focado em desenvolvimento Beckend!
+- 💬 Qualquer duvida, basta perguntar !
 - 📫 Como me encontrar: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gh972027@gmail.com)
 
 ---
