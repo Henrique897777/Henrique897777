@@ -1,25 +1,20 @@
-name: generate animation
+name: Generate Profile Animations
 
 on:
-  # run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
   workflow_dispatch:
-  
-  # run on every push on the master branch
   push:
     branches:
     - master
     
 jobs:
-  generate:
+  # 1. Job da Cobrinha (Snake Pac-Man)
+  generate-snake:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
     steps:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -36,3 +31,26 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # 2. Job do Gráfico 3D Isométrico
+  generate-3d-profile:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repositório
+        uses: actions/checkout@v3
+        
+      - name: Gerar Gráfico 3D
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          
+      - name: Commit & Push 3D Profile
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Atualizando gráfico 3D" || exit 0
+          git push
