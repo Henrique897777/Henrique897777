@@ -28,7 +28,7 @@
 
 💻 Focado em **Desenvolvimento Backend**
 
-🚀 Interessado em desenvolvimento de sistemas, programação e tecnologia
+🚀 Interessado em análise de dados
 
 📚 Sempre buscando aprender, desenvolver projetos e evoluir profissionalmente
 
