@@ -35,7 +35,9 @@
 💬 Qualquer dúvida, basta perguntar!
 
 📫 **Contato:**
-[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=flat-square\&logo=gmail\&logoColor=white)](mailto:gh972027@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gh972027@gmail.com)
+
+
 
 ---
 
@@ -90,6 +92,11 @@
 <img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS"/>
 <br><br>
 <strong>CSS</strong>
+</td>
+
+<td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+    <br>Github
 </td>
 
 </tr>
