@@ -1,39 +1,145 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=550&lines=OL%C3%81,+ME+CHAMO+GABRIEL+HENRIQUE;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Focado+em+Desenvolvimento+Backend" alt="Typing SVG" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8B5CF6&section=header"/>
+
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=80&lines=GABRIEL+HENRIQUE+%F0%9F%91%8B;ESTUDANTE+DE+CI%C3%8ANCIA+DA+COMPUTA%C3%87%C3%83O!" alt="Gabriel Henrique" />
+</a>
+
+<br>
+
+<p>
+  <strong>🎓 Ciência da Computação • 💻 Backend • 🚀 Desenvolvimento</strong>
+</p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Henrique897777&label=Profile%20Views&color=8B5CF6&style=flat" alt="Profile Views"/>
+
 </div>
 
 ---
 
-### 👾 Sobre Mim
-- 🎓 Estudante de Ciência da Computação no **CEUB**
-- 💻 Focado em desenvolvimento **Backend**
-- 💬 Qualquer dúvida, basta perguntar!
-- 📫 Como me encontrar: [![Gmail](https://img.shields.io/badge/Gmail-161b22?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:gh972027@gmail.com)
+## 👨‍💻 Sobre Mim
+
+🎓 Estudante de **Ciência da Computação no CEUB**
+
+💻 Focado em **Desenvolvimento Backend**
+
+🚀 Interessado em desenvolvimento de sistemas, programação e tecnologia
+
+📚 Sempre buscando aprender, desenvolver projetos e evoluir profissionalmente
+
+💬 Qualquer dúvida, basta perguntar!
+
+📫 **Contato:**
+[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=flat-square\&logo=gmail\&logoColor=white)](mailto:gh972027@gmail.com)
 
 ---
 
-**Linguagens & Banco de Dados:**  
-![Python](https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![SQL](https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logo=mysql&logoColor=4479A1)
+## 🛠️ Tecnologias
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572B6)
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=javascript" width="55" alt="JavaScript"/>
+<br><br>
+<strong>JavaScript</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
+<br><br>
+<strong>Python</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL"/>
+<br><br>
+<strong>MySQL</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js"/>
+<br><br>
+<strong>Node.js</strong>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="55" alt="Java"/>
+<br><br>
+<strong>Java</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML"/>
+<br><br>
+<strong>HTML</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS"/>
+<br><br>
+<strong>CSS</strong>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Atualmente
+
+<div align="center">
+
+💻 Desenvolvendo projetos acadêmicos e pessoais
+
+📚 Aprofundando meus conhecimentos em programação
+
+🔧 Trabalhando com desenvolvimento Backend
+
+😎 Sempre aprendendo novas tecnologias
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Henrique897777/Henrique897777/output/github-contribution-grid-snake-dark.svg">
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Henrique897777/Henrique897777/output/github-contribution-grid-snake.svg">
+
+<img
+ alt="GitHub Contribution Snake"
+ src="https://raw.githubusercontent.com/Henrique897777/Henrique897777/output/github-contribution-grid-snake.svg"> </picture>
+
+</div>
 
 ---
 
 <div align="center">
-  <h3>🐍 Contribuições Arcade</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrique897777/Henrique897777/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henrique897777/Henrique897777/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Henrique897777/Henrique897777/output/github-contribution-grid-snake.svg">
-  </picture>
 
-  <br><br>
+### 💜 Code. Learn. Build. Repeat.
 
-  <h3>🏙️ Contribuições em 3D</h3>
-  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Gráfico de Contribuições 3D" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8B5CF6&section=footer"/>
+
 </div>
