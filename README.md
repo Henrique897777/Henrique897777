@@ -145,7 +145,7 @@
 
 <div align="center">
 
-### 💜 Code. Learn. Build. Repeat.
+### 💜OBRIGADO POR ME VISITAR!
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8B5CF6&section=footer"/>
 
